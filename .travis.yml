@@ -1,4 +1,6 @@
-arch: ppc64le
+arch: 
+  - amd64
+  - ppc64le
 os: linux
 language: node_js
 node_js:
