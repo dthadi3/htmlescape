@@ -1,0 +1,7 @@
+language: node_js
+arch:
+  - amd64
+  - pp64le
+node_js:
+  - node
+  - lts/*
